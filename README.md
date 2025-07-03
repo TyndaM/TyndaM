@@ -8,9 +8,6 @@ Passionné par les technologies, l'intelligence artificielle et le développemen
 - Développement de sites web (PHP, JavaScript, HTML/CSS)
 - Initiation à la Data Science (Python, Pandas, Jupyter, etc.)
 
-## Mes projets en cours :
-- Site de **réservation de vols**
-
 ## Ce que j’apprends :
 - Intelligence Artificielle & Data Science
 - Sécurité web et bonnes pratiques
@@ -20,6 +17,5 @@ Passionné par les technologies, l'intelligence artificielle et le développemen
 Je m’inspire de leaders visionnaires comme **Tommy Shelby** (charisme et stratégie), et je crois en l’impact de la technologie pour transformer des vies.
 
 ---
-
 **📫 Tu veux collaborer ?**  
 Tu peux me contacter ici : [tindameshoullam@gmail.com]
